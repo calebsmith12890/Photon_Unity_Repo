@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/caleb/Downloads/Photon-Tutorial-d355b515c889a3a28e10229b7074fd5b45fece94/Photon-Tutorial-d355b515c889a3a28e10229b7074fd5b45fece94/Assets/Scenes/Scene_Main.unity
+- path: Assets/Scenes/Scene_MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
